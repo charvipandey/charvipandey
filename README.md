@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a 3rd year B.Tech Computer Science and Engineering<br>student, passionate about learning and building in the world of<br>technology. Currently, I'm learning about full-stack development<br>and trying to contribute to interesting projects.<br>Feel free to connect with me and explore my work!
+Hello! I'm a 3rd year B.Tech Computer Science and Engineering<br>student, passionate about learning and building in the world of<br>technology. Currently, I'm learning full-stack development<br>and trying to contribute to interesting projects.<br>Feel free to connect with me and explore my work!
 
 
 ## 🌐 Socials:
